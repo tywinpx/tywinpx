@@ -2,7 +2,7 @@
 
 - 💻 Estou aprendendo HTML, CSS e JavaScript
 - 🤔 Tenho interesse em trabalhar como front-end...
-- 👨💻👨🏻‍💻 Tenho vontade de aprender outras linguagens como php e phyton
+- 👨🏻‍💻 Tenho vontade de aprender outras linguagens como php e phyton
 
 <div>
   <a href="https://www.linkedin.com/in/tywinpx/"/>
