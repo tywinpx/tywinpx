@@ -36,6 +36,6 @@
   <div align='center'>
   
   ![Snake animation](https://github.com/tywinpx/tywinpx/blob/output/github-contribution-grid-snake.svg)
-  ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=tywinpx&width=600)
+  ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=tywinpx&width=850)
   
   </div>
