@@ -1,9 +1,11 @@
 ### Olá! Me chamo Pedro
 
+<div><img align="right" alt="gato" src="https://media.discordapp.net/attachments/894629668395810909/986471462317719603/GIF-220615_002452.gif" width="150" height="150" style="border-radius:50px;" /></div><br>
+
 - 💻 Estou aprendendo HTML, CSS e JavaScript
 - 🤔 Tenho interesse em trabalhar como front-end...
 - 👨🏻‍💻 Tenho vontade de aprender outras linguagens como php e phyton
-<div><img align="right" alt="gato" src="https://media.discordapp.net/attachments/894629668395810909/986471462317719603/GIF-220615_002452.gif" width="150" height="150" style="border-radius:50px;" /></div><br>
+
 
 ##
 
