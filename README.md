@@ -24,9 +24,10 @@
 <div> 
   <a href="https://instagram.com/pxdmndh" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/tywinpx" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href="https://www.last.fm/user/tywinpx/" target="_blank"><img src="https://img.shields.io/badge/-Last.fm-%23E4405F?style=for-the-badge&logo=last.fm&logoColor=white" target="_blank"></a>
+  <a href="https://www.last.fm/user/tywinpx/" target="_blank"><img src="https://img.shields.io/badge/-Last.fm-FF0000?style=for-the-badge&logo=last.fm&logoColor=white" target="_blank"></a>
   <a href = "mailto:pedrohenriquesoaresx01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/tywinpx/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://music.apple.com/profile/tywinpx?ls&ls" target="_blank"><img src="https://img.shields.io/badge/-Apple%20Music-FF0084?style=for-the-badge&logo=applemusic&logoColor=white" target="_blank"></a> 
   </div>
   <div align='center'>
   
